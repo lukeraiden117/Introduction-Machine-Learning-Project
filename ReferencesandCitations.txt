@@ -1,0 +1,25 @@
+Anish Almeida  aa4170
+
+NYU Machine Learning Project
+Credit Card Fraud
+
+1)Dataset
+https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3
+Dataset is larger than 25 MB and couldn't be hosted on Github
+
+
+2)LOCAL OUTLIER FACTOR Code is refrenced from:
+https://github.com/scikit-learn/scikit-learn/blob/55bf5d9/sklearn/neighbors/lof.py#L19
+
+Lists all functions that can be used as well as some coding examples, 
+which I studied to implement in my project 
+
+LOF examples: https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html#sphx-glr-auto-examples-neighbors-plot-lof-outlier-detection-py
+
+3)ISOLATION FOREST is referenced from:
+https://github.com/scikit-learn/scikit-learn/blob/55bf5d9/sklearn/ensemble/iforest.py#L27
+
+Isolation Forest examples:https://scikit-learn.org/stable/auto_examples/ensemble/plot_isolation_forest.html#sphx-glr-auto-examples-ensemble-plot-isolation-forest-py
+
+Lists all functions that can used be used as well as coding examples,
+whuch I studied and implemented in my project
